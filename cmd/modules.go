@@ -18,10 +18,8 @@
 package cmd
 
 import (
-	"strings"
-
 	"github.com/pkg/errors"
-
+	"strings"
 	"github.com/elastic/beats/libbeat/beat"
 	"github.com/elastic/beats/libbeat/cfgfile"
 	"github.com/elastic/beats/libbeat/cmd"

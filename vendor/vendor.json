@@ -1,0 +1,129 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "pvV787RyoEIcpfi5G+W92G2nZbc=",
+			"origin": "github.com/kckecheng/unitybeat/vendor/github.com/elastic/beats/vendor/github.com/Sirupsen/logrus",
+			"path": "github.com/Sirupsen/logrus",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "t04WnJ2QukyvpgAG78jV+yCgYlU=",
+			"origin": "github.com/kckecheng/unitybeat/vendor/github.com/elastic/beats/vendor/github.com/docker/docker/pkg/tlsconfig",
+			"path": "github.com/docker/docker/pkg/tlsconfig",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "YZj4YImQQywru5s/RnmD8by7uxE=",
+			"origin": "github.com/kckecheng/unitybeat/vendor/github.com/elastic/beats/vendor/github.com/ericchiang/k8s",
+			"path": "github.com/ericchiang/k8s",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "VR7bpDyULte86SHDYufSj+2pcUU=",
+			"origin": "github.com/kckecheng/unitybeat/vendor/github.com/elastic/beats/vendor/github.com/ericchiang/k8s/apis/apiextensions/v1beta1",
+			"path": "github.com/ericchiang/k8s/apis/apiextensions/v1beta1",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "h85orxJ2FOqGHmIzFtdHoQHx7dU=",
+			"origin": "github.com/kckecheng/unitybeat/vendor/github.com/elastic/beats/vendor/github.com/ericchiang/k8s/apis/apps/v1beta1",
+			"path": "github.com/ericchiang/k8s/apis/apps/v1beta1",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "2+q4OIIRMzVWLTdGFJA7sQGVTwY=",
+			"origin": "github.com/kckecheng/unitybeat/vendor/github.com/elastic/beats/vendor/github.com/ericchiang/k8s/apis/core/v1",
+			"path": "github.com/ericchiang/k8s/apis/core/v1",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "BKtWfbR8kVhNBjb6S4aF5Svof+Q=",
+			"origin": "github.com/kckecheng/unitybeat/vendor/github.com/elastic/beats/vendor/github.com/ericchiang/k8s/apis/extensions/v1beta1",
+			"path": "github.com/ericchiang/k8s/apis/extensions/v1beta1",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "2X91I25gS9CnmjVf2zOomemc2OA=",
+			"origin": "github.com/kckecheng/unitybeat/vendor/github.com/elastic/beats/vendor/github.com/ericchiang/k8s/apis/meta/v1",
+			"path": "github.com/ericchiang/k8s/apis/meta/v1",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "2H7OxZF2cGjj7U7u64O/7zRZhuo=",
+			"origin": "github.com/kckecheng/unitybeat/vendor/github.com/elastic/beats/vendor/github.com/ericchiang/k8s/apis/policy/v1beta1",
+			"path": "github.com/ericchiang/k8s/apis/policy/v1beta1",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "J+8RU//456DUJuK5CE7sQ6tjiPs=",
+			"origin": "github.com/kckecheng/unitybeat/vendor/github.com/elastic/beats/vendor/github.com/ericchiang/k8s/apis/resource",
+			"path": "github.com/ericchiang/k8s/apis/resource",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "52L4t9TRIwIzL2ZL1FYAdlpk7e4=",
+			"origin": "github.com/kckecheng/unitybeat/vendor/github.com/elastic/beats/vendor/github.com/ericchiang/k8s/runtime",
+			"path": "github.com/ericchiang/k8s/runtime",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "TACqUluYNHqVcubsLXdkbEH4/yM=",
+			"origin": "github.com/kckecheng/unitybeat/vendor/github.com/elastic/beats/vendor/github.com/ericchiang/k8s/runtime/schema",
+			"path": "github.com/ericchiang/k8s/runtime/schema",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "EgwZjTIBdEh4kvdGqWfprYGcTgk=",
+			"origin": "github.com/kckecheng/unitybeat/vendor/github.com/elastic/beats/vendor/github.com/ericchiang/k8s/util/intstr",
+			"path": "github.com/ericchiang/k8s/util/intstr",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "Kj8WnmKc/J5nPYR9PjrAb/zi25E=",
+			"origin": "github.com/kckecheng/unitybeat/vendor/github.com/elastic/beats/vendor/github.com/ericchiang/k8s/watch/versioned",
+			"path": "github.com/ericchiang/k8s/watch/versioned",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "fTTFuGLjocMx6RJ/PZ4k+1ZVkh4=",
+			"path": "github.com/kckecheng/unitybeat/beater",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "Oi8ypXpzrDmq+wI9q6nxj1Cuf7w=",
+			"path": "github.com/kckecheng/unitybeat/cmd",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "mg5v/0KfB/XSBnFVAUQjuOg1j9U=",
+			"path": "github.com/kckecheng/unitybeat/config",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		},
+		{
+			"checksumSHA1": "8GKKz00maI5+iTBT6xXBRMqKIAw=",
+			"path": "github.com/kckecheng/unitybeat/include",
+			"revision": "5d71b2541e27a11b2d2ec7fcf8fd49eaf4344242",
+			"revisionTime": "2019-03-08T05:31:28Z"
+		}
+	],
+	"rootPath": "github.com/sreejithavg/dummybeat"
+}

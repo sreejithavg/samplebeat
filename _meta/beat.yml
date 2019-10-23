@@ -1,0 +1,7 @@
+################### Unitybeat Configuration Example #########################
+
+############################# Unitybeat ######################################
+
+dummybeat:
+  # Defines how often an event is sent to the output
+  period: 10s
